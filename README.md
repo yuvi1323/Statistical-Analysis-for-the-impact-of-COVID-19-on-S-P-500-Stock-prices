@@ -1,27 +1,38 @@
 **Goals and Objectives:**
-**1) Motivation:**
-The COVID-19 pandemic, which emerged in late 2019, has had a profound and lasting impact on the global economy. Stock markets worldwide experienced significant fluctuations in response to the pandemic's developments, raising questions about the relationship between public health crises and financial markets. This project seeks to explore and quantify the influence of COVID-19 deaths on the S&P 500 stock prices.
-Significance: Understanding the dynamic relationship between pandemics and financial markets is paramount for investors, policymakers, and researchers. This research aims to provide insights into how public health crises, such as COVID-19, affect economic systems, particularly stock market behavior.
 
-**2) Significance:**
-Using machine learning to explore and measure the impact of the COVID-19 pandemic on the S&P 500 stock prices. Even though there were numerous machine learning models available to predict the stock market volatility. This can lead to more accurate risk assessments and potentially reduce the impact of such unforeseen events in future scenarios.
+**1) Motivation:**
+
+The COVID-19 pandemic, which emerged in late 2019, has had a profound and lasting impact on the global economy. Stock markets worldwide experienced significant fluctuations in response to the pandemic's developments, raising questions about the relationship between public health crises and financial markets. This project seeks to explore and quantify the influence of COVID-19 deaths on the S&P 500 stock prices.
+
+**Significance:** Understanding the dynamic relationship between pandemics and financial markets is paramount for investors, policymakers, and researchers. This research aims to provide insights into how public health crises, such as COVID-19, affect economic systems, particularly stock market behavior.Using machine learning to explore and measure the impact of the COVID-19 pandemic on the S&P 500 stock prices. Even though there were numerous machine learning models available to predict the stock market volatility. This can lead to more accurate risk assessments and potentially reduce the impact of such unforeseen events in future scenarios.
 
 **3) Objectives:**
+
 The primary objectives of this project are as follows:
+
   ● To investigate the impact of COVID-19 deaths on the S&P 500 stock prices.
+  
   ● To develop a machine learning model that can predict stock market movements
   based on COVID-19 data.
+  
   ● To analyze and visualize trends and correlations between COVID-19 deaths and
   stock market performance.
+  
   ● To contribute valuable knowledge to the fields of finance, epidemiology, and data
   science.
 
 **4) Features:**
+
 The project will encompass the following key features:
+
   ● Comprehensive data collection from reliable sources.
+  
   ● Rigorous data preprocessing and alignment techniques.
+  
   ● Exploratory data analysis to uncover patterns and insights.
+  
   ● Machine learning model development for stock market prediction.
+  
   ● Integration of findings from relevant research papers.
 
 **References**
