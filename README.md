@@ -1,4 +1,4 @@
-# BreadcrumbsStatistical-Analysis-for-the-impact-of-COVID-19-on-S-P-500-Stock-prices
+# Statistical-Analysis-for-the-impact-of-COVID-19-on-S-P-500-Stock-prices
 
 **Goals and Objectives:**
 
